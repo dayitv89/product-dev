@@ -1,3 +1,7 @@
+# product-development-magic
+Product Development Lift Cycle: all essentials you should know about the product making.
+
+
 ![](https://media.tenor.com/images/78edbb1f8c34b17b20e9e0987914001e/tenor.gif)
 
  ![](http://upfrontanalytics.com/SITE/wp-content/uploads/2015/05/New-Product-Development-2.png)
