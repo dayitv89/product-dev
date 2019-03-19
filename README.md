@@ -4,7 +4,6 @@ Product Development Lift Cycle: all essentials you should know about the product
 
 ![](https://media.tenor.com/images/78edbb1f8c34b17b20e9e0987914001e/tenor.gif)
 
- ![](http://upfrontanalytics.com/SITE/wp-content/uploads/2015/05/New-Product-Development-2.png)
 
 ## You will get to know about product dev-here
 
@@ -24,6 +23,9 @@ Then people developed more models or frameworks like Waterfall model, V model, I
 But For `modern` developers, these models felt constricting, regulated, and too slow moving as these method spent a huge amount of time and effort upfront gathering resources and planning with a lot of key decisions based purely on assumption.
 
 Then came the concept of Agile.
+
+![](https://www.snyxius.com/wp-content/uploads/2016/10/what-agile-development-really-is.png)
+
 ### What is Agile?
 
 Agile basically means moving `quickly and easily`.
@@ -34,10 +36,9 @@ It is a collection of software development methodology which works on an iterati
 It breaks down the procedure and gives the developer a short time period for covering all the differences made by the customer or if anything goes wrong in between then the team can cover it up in this time period.
 Agile discovers what the customer and how to build the code and change things along the way.
 
-![](https://www.snyxius.com/wp-content/uploads/2016/10/what-agile-development-really-is.png)
+![](https://lh5.googleusercontent.com/fbhjaTY-CFypw1KTriK37g_HOdU3ak0Z5Q1I31n-9B-KSs9pYe0LLuD78uzQ0fybfl9eolJergpuOtQujYyfD0JuNjzkt9nRzTuCShLhIdAFgRxKxYwY-Em62Rbr49F_nJtsmaUG)
 
 Agile has many different frameworks which are displayed below-
 1. [Scrum.](./Scrum.md)
-1. [Kanban.]()
+1. [Kanban.](./Kanban.md)
 
-and some more data

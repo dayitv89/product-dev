@@ -1,5 +1,6 @@
 ![Scrum](https://media1.tenor.com/images/df6d2cf010f6140d4ac5ec88485ea9dc/tenor.gif?itemid=4462719)
 
+
 The word scrum comes from the sports rugby. Where the players huddle together in an interlocked position pushing against the opponents. Each player has a defined role in their position and can play both offensive and defensive as per the demand of the situation.
 
 Similarly, the scrum in IT believes in empowered self-managed development teams with three specific and clearly defined roles. These roles include – Product Owner (PO), Scrum Master (SM) and the development team consisting of the programmers and testers. They work together in iterative time boxed durations called sprints.
@@ -90,3 +91,6 @@ Now some points to note.
 1.	*Estimated*- The stories should be properly estimated.
 1.	*High Level*- The stories should not be very detailed, it should only tell what to do and the team can understand what has to be done, that’s it.
 1.	*Dynamic*- This backlog should be dynamic as there can be changes made in future as there are issues from both the Development Team and customer/stakeholder/company.
+
+
+Next, [Kanban](./Kanban.md)
