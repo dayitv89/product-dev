@@ -6,6 +6,7 @@ Similarly, the scrum in IT believes in empowered self-managed development teams 
 
 It is 3-3-5 Framework i.e.
 3 Roles, 3 Artifacts, and 5 Events
+
 | Roles | Artifacts | Events |
 | --- | --- | --- |
 | Product Owner (PO) | Product Backlog | Sprint |
@@ -38,6 +39,7 @@ The addition of stories in *sprint backlog* is done in **Sprint Planning**(or sp
 
 The Development Team then give the stories a **_story point_**.
 **Story points** are just complexity of a *user story*. Like, consider there is a sprint of 2 weeks. So,
+
 | Points | 1 | 2 | 3 | 5 | 8| 13 | 21 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Time | 1-2 Hours | Half Day | Full Day | 1.5-2 Days | 3-4 Days or Half week | 1 Week | 2 Weeks |
