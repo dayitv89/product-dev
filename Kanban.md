@@ -79,4 +79,4 @@ There are four foundational principles of the Kanban Methodology that you need t
 - **Encourage acts of leadership at all levels:**
     Kanban encourages continuous improvement at all the levels of the organization and it says that leadership acts don’t have to originate from senior managers only. People at all levels can provide ideas and show leadership to implement changes to continually improve the way they deliver their products and services.
 
-![](https://leankanban.com/wp-content/uploads/2016/04/Kpillar.png   )
+![](https://leankanban.com/wp-content/uploads/2016/04/Kpillar.png)
