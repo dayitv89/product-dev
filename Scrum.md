@@ -92,4 +92,4 @@ Now some points to note.
 1.	*Dynamic*- This backlog should be dynamic as there can be changes made in future as there are issues from both the Development Team and customer/stakeholder/company.
 
 
-Next, [Kanban](./kanban.md)
+Next, [Kanban](./Kanban.md)
