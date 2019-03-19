@@ -9,6 +9,7 @@ Kanban is a method for work management, originating from the Toyota Production S
 From Japanese, Kanban is literally translated as sign board or visual signal.
 
 Kanban is literally a board where there are 4 columns.
+
 | Backlog | To Do | In Progress | Done |
 | --- | --- | --- | --- |
 
