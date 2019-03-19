@@ -65,7 +65,7 @@ So if we give a gist then, It has 4 things.
 
 So in all what is happening is there a place(or **Board**) where all your work is displayed, once a team member is free he/she comes and picks a work from the board and completes the work. As this requires team work, all the team members work closely.
 
-![](https://d30s2hykpf82zu.cloudfront.net/wp-content/uploads/2018/11/Simple-Kanban-Board.png)
+![The A,B,..,D are user stories ](https://d30s2hykpf82zu.cloudfront.net/wp-content/uploads/2018/11/Simple-Kanban-Board.png)
 
 
 There are four foundational principles of the Kanban Methodology that you need to know.
