@@ -90,3 +90,6 @@ Now some points to note.
 1.	*Estimated*- The stories should be properly estimated.
 1.	*High Level*- The stories should not be very detailed, it should only tell what to do and the team can understand what has to be done, that’s it.
 1.	*Dynamic*- This backlog should be dynamic as there can be changes made in future as there are issues from both the Development Team and customer/stakeholder/company.
+
+
+Next, [Kanban](./kanban.md)
