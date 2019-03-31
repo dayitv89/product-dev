@@ -42,4 +42,4 @@ Agile discovers what the customer and how to build the code and change things al
 Agile has many different frameworks which are displayed below-
 1. [Scrum.](./Scrum.md)
 1. [Kanban.](./Kanban.md)
-1. etc.... 
+
